@@ -1,0 +1,11 @@
+D:\Program Files\visual-studio-workspace\Course work. GTEK. Database of the company's products\bin\Debug\Database.accdb
+D:\Program Files\visual-studio-workspace\Course work. GTEK. Database of the company's products\bin\Debug\Course_work.GTEK.Database_of_the_company_s_products.exe.config
+D:\Program Files\visual-studio-workspace\Course work. GTEK. Database of the company's products\bin\Debug\Course_work.GTEK.Database_of_the_company_s_products.exe
+D:\Program Files\visual-studio-workspace\Course work. GTEK. Database of the company's products\bin\Debug\Course_work.GTEK.Database_of_the_company_s_products.pdb
+D:\Program Files\visual-studio-workspace\Course work. GTEK. Database of the company's products\obj\Debug\Course work. GTEK. Database of the company's products.csprojAssemblyReference.cache
+D:\Program Files\visual-studio-workspace\Course work. GTEK. Database of the company's products\obj\Debug\Course_work.GTEK.Database_of_the_company_s_products.Form1.resources
+D:\Program Files\visual-studio-workspace\Course work. GTEK. Database of the company's products\obj\Debug\Course_work.GTEK.Database_of_the_company_s_products.Properties.Resources.resources
+D:\Program Files\visual-studio-workspace\Course work. GTEK. Database of the company's products\obj\Debug\Course work. GTEK. Database of the company's products.csproj.GenerateResource.cache
+D:\Program Files\visual-studio-workspace\Course work. GTEK. Database of the company's products\obj\Debug\Course work. GTEK. Database of the company's products.csproj.CoreCompileInputs.cache
+D:\Program Files\visual-studio-workspace\Course work. GTEK. Database of the company's products\obj\Debug\Course_work.GTEK.Database_of_the_company_s_products.exe
+D:\Program Files\visual-studio-workspace\Course work. GTEK. Database of the company's products\obj\Debug\Course_work.GTEK.Database_of_the_company_s_products.pdb
